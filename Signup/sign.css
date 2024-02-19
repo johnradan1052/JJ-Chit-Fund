@@ -15,6 +15,7 @@
 .navbar{
     width: 1200px;
     height: 75px;
+    
     margin: auto;
 }
 
@@ -108,7 +109,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 180px;
+    top: 120px;
     left: 10px;
     border-radius: 0px;
     padding: 25px;
@@ -146,7 +147,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 180px;
+    top: 120px;
     left: 350px;
     border-radius: 0px;
     padding: 25px;
@@ -179,7 +180,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 280px;
+    top: 200px;
     left: 10px;
     border-radius: 0px;
     padding: 25px;
@@ -212,7 +213,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 280px;
+    top: 200px;
     left: 350px;
     border-radius: 0px;
     padding: 25px;
@@ -245,7 +246,7 @@ ul li a:hover{
     height: 20px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 380px;
+    top: 280px;
     left: 10px;
     border-radius: 0px;
     padding: 25px;
@@ -278,7 +279,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 480px;
+    top: 370px;
     left: 10px;
     border-radius: 0px;
     padding: 25px;
@@ -311,7 +312,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 480px;
+    top: 370px;
     left: 350px;
     border-radius: 0px;
     padding: 25px;
@@ -344,7 +345,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 580px;
+    top: 480px;
     left: 10px;
     border-radius: 0px;
     padding: 25px;
@@ -377,7 +378,7 @@ ul li a:hover{
     height: 10px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 580px;
+    top: 480px;
     left: 350px;
     border-radius: 0px;
     padding: 25px;
@@ -403,6 +404,72 @@ ul li a:hover{
 }
 
 .form8 input:focus{
+    outline:none;
+}
+.from10{
+    width: 250px;
+    height: 10px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 580px;
+    left: 10px;
+    border-radius: 0px;
+    padding: 25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.from10 input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    margin-top: -20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form10 input:focus{
+    outline:none;
+}
+.from11{
+    width: 250px;
+    height: 10px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 580px;
+    left: 350px;
+    border-radius: 0px;
+    padding: 25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.from11 input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    margin-top: -20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form11 input:focus{
     outline:none;
 }
 .btnn{
